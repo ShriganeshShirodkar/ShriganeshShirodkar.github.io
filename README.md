@@ -1,6 +1,6 @@
 
 
-## Profiles
+## Profile
 
 <a href="https://www.kaggle.com/shriganesh" target = "_blank">
 <img src="kaggle.png" width="100" title="Kaggle">
@@ -11,7 +11,7 @@
 </a>
 
 
-## My Projects
+## Projects
 
 ### 1. [LANL Earthquake Prediction](https://github.com/ShriganeshShirodkar/Earthquake-Prediction)
    > Predicting the time remaining before laboratory earthquakes occur from real-time seismic data. At the time of submission, the           score was at top 1% of kaggle public leaderboard.
