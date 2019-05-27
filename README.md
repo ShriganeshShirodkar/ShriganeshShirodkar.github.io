@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ShriganeshShirodkar/ShriganeshShirodkar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Profiles
 
-### Markdown
+<a href="https://www.kaggle.com/shriganesh" target = "_blank">
+<img src="kaggle.png" width="100" title="Kaggle">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shriganesh-shirodkar-8247b771/" target="_blank">
+<img src="Linkedin.png" width="60" title="LinkedIn">
+</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## My Projects
 
-# Header 1
-## Header 2
-### Header 3
+### 1. [LANL Earthquake Prediction](https://github.com/ShriganeshShirodkar/Earthquake-Prediction)
+   > Predicting the time remaining before laboratory earthquakes occur from real-time seismic data. At the time of submission, the           score was at top 1% of kaggle public leaderboard.
+    
+### 2. [Quora Question Pair Similarity](https://github.com/ShriganeshShirodkar/Quora-Question-Pair-Similarity)
+   >Identifying which questions asked on Quora are duplicates of questions that have already been asked.
+        
+### 3. [Amazon Apparel Recommendation](https://github.com/ShriganeshShirodkar/Amazon-Apparel-Recommendation)
+   >  Recommend similar products to the user based on the product user views.
+        
+### 4. [Personalized Cancer Diagnosis](https://github.com/ShriganeshShirodkar/Personalized-Cancer-Diagnosis)
+   > Classifying the given genetic variations/mutations based on evidence from text-based clinical literature.
+        
+### 5. [Human-Activity-Recognition](https://github.com/ShriganeshShirodkar/Human-Activity-Recognition)
+   > This project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting,     Standing or Laying.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShriganeshShirodkar/ShriganeshShirodkar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
