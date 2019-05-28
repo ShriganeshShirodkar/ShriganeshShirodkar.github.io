@@ -16,7 +16,7 @@
 ### 1. [LANL Earthquake Prediction](https://shriganeshshirodkar.github.io/Earthquake-Prediction)
    > Predicting the time remaining before laboratory earthquakes occur from real-time seismic data. At the time of submission, the           score was at top 1% of kaggle public leaderboard.
     
-### 2. [Quora Question Pair Similarity](https://github.com/ShriganeshShirodkar/Quora-Question-Pair-Similarity)
+### 2. [Quora Question Pair Similarity](https://shriganeshshirodkar.github.io/Quora-Question-Pair-Similarity)
    >Identifying which questions asked on Quora are duplicates of questions that have already been asked.
         
 ### 3. [Amazon Apparel Recommendation](https://github.com/ShriganeshShirodkar/Amazon-Apparel-Recommendation)
