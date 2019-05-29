@@ -19,13 +19,13 @@
 ### 2. [Quora Question Pair Similarity](https://shriganeshshirodkar.github.io/Quora-Question-Pair-Similarity)
    >Identifying which questions asked on Quora are duplicates of questions that have already been asked.
         
-### 3. [Amazon Apparel Recommendation](https://github.com/ShriganeshShirodkar/Amazon-Apparel-Recommendation)
+### 3. [Amazon Apparel Recommendation](https://shriganeshshirodkar.github.io/Amazon-Apparel-Recommendation)
    >  Recommend similar products to the user based on the product user views.
         
-### 4. [Personalized Cancer Diagnosis](https://github.com/ShriganeshShirodkar/Personalized-Cancer-Diagnosis)
+### 4. [Personalized Cancer Diagnosis](https://shriganeshshirodkar.github.io/Personalized-Cancer-Diagnosis)
    > Classifying the given genetic variations/mutations based on evidence from text-based clinical literature.
         
-### 5. [Human-Activity-Recognition](https://github.com/ShriganeshShirodkar/Human-Activity-Recognition)
+### 5. [Human Activity Recognition](https://shriganeshshirodkar.github.io/Human-Activity-Recognition)
    > This project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting,     Standing or Laying.
 
 
