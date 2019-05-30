@@ -1,4 +1,6 @@
+# Hi,
 
+I am Shriganesh, recently graduated in Electronics and Communication Engineering. Interested in Machine Learning and Deep Learning.
 
 ## Profile
 
