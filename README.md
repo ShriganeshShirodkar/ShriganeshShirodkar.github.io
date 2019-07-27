@@ -1,9 +1,9 @@
 # Hi,
 
 I am Shriganesh, recently graduated in Electronics and Communication Engineering. Interested in Machine Learning and Deep Learning.
-<body link="green">
+
 <h2><a href="https://drive.google.com/open?id=184a2QcaDloyzE97rfvXZ4i___v4ja1nW" style="color:green">Resume</a></h2>
-</body>
+
 ## Projects
 
 ### 1. [LANL Earthquake Prediction](https://shriganeshshirodkar.github.io/Earthquake-Prediction)
