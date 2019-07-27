@@ -2,16 +2,7 @@
 
 I am Shriganesh, recently graduated in Electronics and Communication Engineering. Interested in Machine Learning and Deep Learning.
 
-## Profile
-
-<a href="https://www.kaggle.com/shriganesh" target = "_blank">
-<img src="kaggle.png" width="100" title="Kaggle">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shriganesh-shirodkar-8247b771/" target="_blank">
-<img src="Linkedin.png" width="60" title="LinkedIn">
-</a>
-
+<h2><a href="https://drive.google.com/open?id=184a2QcaDloyzE97rfvXZ4i___v4ja1nW">Resume</a></h2>
 
 ## Projects
 
@@ -37,3 +28,11 @@ I am Shriganesh, recently graduated in Electronics and Communication Engineering
 ## Contact 
 
 **shriganesh.shirodkar@gmail.com**
+
+<a href="https://www.kaggle.com/shriganesh" target = "_blank">
+<img src="kaggle.png" width="60" title="Kaggle">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shriganesh-shirodkar-8247b771/" target="_blank">
+<img src="Linkedin.png" width="30" title="LinkedIn">
+</a>
